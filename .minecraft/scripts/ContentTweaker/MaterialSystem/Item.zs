@@ -128,3 +128,4 @@ Parts.registerPartsToArray(
     }),
     ["ingot","dust","nugget","plate","rod","block"]
 );  
+
